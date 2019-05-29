@@ -1,7 +1,7 @@
 # Hamburg Data Science Meetup: Intro to Bayesian Stats.
 Author: Simon Thornewill von Essen
 
-Start Date: 2019-05-29#
+Start Date: 2019-05-29
 
 ## Description
 
