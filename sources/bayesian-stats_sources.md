@@ -8,11 +8,12 @@ which sources are most relevant for them.
 
 ## Books
 
-Text.
+![think bayes](./think_bayes_cover.png)
 
 ## Conference/Meetup Presentations (Youtube)
 
-Text.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R6d-AbkhBQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; 
+gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Online Courses
 
