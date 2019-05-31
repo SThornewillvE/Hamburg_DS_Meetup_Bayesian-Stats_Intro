@@ -50,7 +50,9 @@ which sources are most relevant for them.
 ![Jake VanderPlas - Frequentism and Bayesianism](jvanderplas1.jpg)
 
 
-## Blog Posts
+## Blog Posts & Websites
+
+* Wikipedia: Table of Conjugate Distributions - [Link](https://en.wikipedia.org/wiki/Conjugate_prior#Table_of_conjugate_distributions)
 
 * Coding Bayesian AB Tests in Python to Boost your App or Website Conversions - [Link](https://medium.com/@thibalbo/coding-bayesian-ab-tests-in-python-e89356b3f4bd)
 
