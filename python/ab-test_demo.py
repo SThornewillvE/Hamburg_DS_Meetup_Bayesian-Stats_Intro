@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri May 31 12:35:18 2019
-
 @author: sthornewillvonessen
 """
 
@@ -55,6 +54,27 @@ def update_distribution(result_list):
     
     return new_dist
 
+def credible_interval(dist, interval):
+    """
+    Calculates 95% highest density credible interval. 
+    
+    Args:
+        dist: scipy distribution. Distribution for calculating the credible interval.
+        interval: float. Value between 0 and 1 describing the interval. (i.e. 95% = 0.95)
+    Returns:
+        ci: tuple. Contains the lower and upper bounds for the 95% HD CI.    
+    """
+    
+    l_int = (1 - interval)/2
+    u_int = 1 - l_int
+
+    lower = dist.ppf(l_int)
+    upper = dist.ppf(u_int)
+    
+    print(lower, upper)
+    
+    return lower, upper
+
 # Main Function
 def main():
 
@@ -76,6 +96,11 @@ def main():
         if result == 'break':
             print("Breaking loop")
             break
+        
+        # Check for credible interval
+        elif  result == 'ci':
+            credible_interval(new_dist, 0.95)
+            continue
 
         # Make sure the value is an int
         try:
