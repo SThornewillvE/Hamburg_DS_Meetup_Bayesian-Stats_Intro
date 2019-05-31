@@ -24,7 +24,7 @@ This repo is laid out into a couple of sub directories:
 
 * `./python` - Code for the presentation
 * `./slides` - Slides used for the presentation
-* `./sources` - Contains handwritten notes for various presentations/courses. All solidified into a README.
+* `./sources` - Contains handwritten notes for various presentations/courses. All solidified into a [markdown file](https://github.com/SThornewillvE/Hamburg_DS_Meetup_Bayesian-Stats_Intro/blob/master/sources/bayesian-stats_sources.md).
 
 The number of directories might change and the README will be updated as necessary.
 
