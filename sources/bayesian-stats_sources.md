@@ -54,6 +54,8 @@ which sources are most relevant for them.
 
 * Wikipedia: Table of Conjugate Distributions - [Link](https://en.wikipedia.org/wiki/Conjugate_prior#Table_of_conjugate_distributions)
 
+* Bayesian A/B Testing with Python: the easy guide - [Link](https://towardsdatascience.com/bayesian-a-b-testing-with-python-the-easy-guide-d638f89e0b8a)
+
 * Coding Bayesian AB Tests in Python to Boost your App or Website Conversions - [Link](https://medium.com/@thibalbo/coding-bayesian-ab-tests-in-python-e89356b3f4bd)
 
 * A Zero-Math Introduction to Markov Chain Monte Carlo Methods - [Link](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
