@@ -15,7 +15,7 @@ My goals of this talk are as follows:
 3. Show basic applications
 4. Use a demo to show this framework in action
 
-I would like there to be a mix of mathematical, programmatic and intuitive approaches so that an audience member that is interested in this topic can 
+I would like there to be a mix of mathematical, programmatic and intuitive approaches so that an audience member that is interested in this topic can
 begin to do some basic implementations of what I lay out and continue exploring on their own.
 
 ## Repo layout
@@ -31,9 +31,16 @@ The number of directories might change and the README will be updated as necessa
 
 ## Packages Used
 
-* To be filled later
+* Numpy
+* Matplotlib
+* Pandas
+* Math
+* Numba
+* Scipy
 
 ## Awknowledgements and Citations
 
-* To be filled later
+* Special thanks to Vincenzo Lavorini (@vlavorini) for his gist on how to calculate probabilities of joint distributions
+* More thanks to all of the people who have landed on my sources list
+* Thanks to my team at Goodgame studios for helping me to demo my talk
 * Also, make sure to check the sources directory.
