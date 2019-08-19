@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Aug  6 13:28:31 2019
-
 @author: sthornewillvonessen
 """
 
@@ -48,6 +47,4 @@ plt.axvline(x=333, linestyle='dotted', label="Expectation Value")
 plt.legend()
 plt.savefig("./plots/train_posterior.png", facecolor='#002b36')
 plt.show()
-
-
 

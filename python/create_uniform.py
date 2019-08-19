@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jul 23 16:04:59 2019
-
 @author: sthornewillvonessen
 """
 
@@ -100,3 +99,4 @@ plt.ylabel("p(theta)")
 plt.legend()
 plt.savefig("./plots/uniform_plots.png", facecolor='#002b36')
 plt.show()
+

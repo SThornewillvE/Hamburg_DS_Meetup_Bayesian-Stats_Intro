@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Aug  6 10:42:15 2019
-
 @author: sthornewillvonessen
 """
 
@@ -63,3 +62,4 @@ for i, b in enumerate(np.linspace(y.min(), y.max(), len(CI_list))):
                  color = color_cycle[4])
 plt.savefig("./plots/frequentist_confidence_intervals.png", facecolor='#002b36')
 plt.show()
+
